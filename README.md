@@ -1,4 +1,4 @@
-# nowah# Nowah 🏡
+# Nowah
 
 Nowah is your ultimate subscription-based solution for simplified living in Kigali. We help busy professionals, young families, and expats reclaim their time through premium, reliable home services:
 
