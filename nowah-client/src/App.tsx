@@ -7,7 +7,6 @@ import PricingSection from './components/PricingSection';
 import TestimonialsSection from './components/TestimonialsSection';
 import NewsletterSection from './components/NewsletterSection';
 import Footer from './components/Footer';
-import './App.css';
 
 const App: React.FC = () => {
   return (
