@@ -22,4 +22,6 @@
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
-}
+}tsconfig.json(24,18): error TS6306: Referenced project '/vercel/path0/nowah-client/tsconfig.node.json' must have setting "composite": true.
+tsconfig.json(24,18): error TS6310: Referenced project '/vercel/path0/nowah-client/tsconfig.node.json' may not disable emit.
+Error: Command "npm run build" exited with 2
