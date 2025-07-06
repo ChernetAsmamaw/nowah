@@ -54,9 +54,6 @@ const HowItWorks: React.FC = () => {
                 <step.icon className="w-6 h-6 text-white" />
               </div>
               
-              <div className="absolute top-1 left-1/2 transform -translate-x-1/2 w-8 h-8 bg-white rounded-full flex items-center justify-center shadow-md border-2 border-gray-100 z-20">
-                <span className="text-xs font-bold text-gray-600">{step.step}</span>
-              </div>
               
               <h3 className="text-xl font-bold text-gray-900 mb-3">{step.title}</h3>
               <p className="text-gray-600 leading-relaxed text-sm">{step.description}</p>
